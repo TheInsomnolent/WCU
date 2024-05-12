@@ -5,10 +5,12 @@
 
 # Load Obsidian Project
 
-1. Navigate to wherever you wnat to store the project in your git cli
-2. Run `git clone https://github.com/TheInsomnolent/WCU.git`
-3. Open Obsidian
-4. Open folder as vault, and find the WCU folder you cloned
+1. Ensure you have run: `git config --global user.email "you@example.com"`
+2. Ensure you have run: `git config --global user.name "Your Name"`
+3. Navigate to wherever you wnat to store the project in your git cli
+4. Run `git clone https://github.com/TheInsomnolent/WCU.git`
+5. Open Obsidian
+6. Open folder as vault, and find the WCU folder you cloned
 
 # Install Obsidian Git Manager
 
