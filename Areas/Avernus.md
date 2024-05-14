@@ -1,0 +1,2 @@
+## Notable Inhabitants
+* [[Galatea]]
