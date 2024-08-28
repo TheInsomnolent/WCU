@@ -5,4 +5,4 @@ The valley of **Barovia** was the eternal Domain of the vampire [Strahd von Za
 ## Notable Inhabitants
 - [Strahd von Zarovich](Characters/Prime%20Entities/Strahd). 
 - [Yharnam of Ghent](Characters/Heroes/Yharnam)
-- 
+* [[Bastian]]

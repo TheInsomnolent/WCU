@@ -1,0 +1,3 @@
+## Relationships
+
+* [[Galatea]] - sibling
